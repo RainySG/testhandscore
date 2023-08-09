@@ -1,0 +1,25 @@
+.input{
+    padding: 5px;
+    border-radius: 25px ;
+    border: 2px solid white;
+}
+.btn{
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.text-p{
+    color: #fff;
+}
+
+p{
+
+    padding: 5px;
+    color: #fff;
+}
+
+h1{
+    font-size: 26px;
+    padding: 5px;
+    color: #fff;
+}
